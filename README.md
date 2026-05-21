@@ -6,4 +6,4 @@ https://www.kaggle.com/datasets/drahulsingh/best-selling-manga?resource=download
 
 ## Visualization Preview
 
-![Visualization Screenshot](./Mangavisualization.png)
+![Visualization Screenshot](./manga.png)
